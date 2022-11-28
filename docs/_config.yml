@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal homepage for Paul Skersis. Contains some personal information about Paul Skersis,
   including work history and interests.
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https:// PaulSkersis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://PaulSkersis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: PaulSkersis
 # Build settings
 theme: minima
